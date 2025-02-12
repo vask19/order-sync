@@ -34,6 +34,7 @@ Ensure Docker and Docker Compose are installed on your machine.
 Run the following command in the terminal:
 
 ```bash
+cd /docker
 docker-compose up --build
 ```
 
